@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Altis Force</string>
+    <string name="title_section1">Wilkommen</string>
+    <string name="title_section2">Server Info</string>
+    <string name="title_section3">Server Regeln</string>
+    <string name="title_section4">Busgeldkatalog</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example"></string>
+    <string name="action_settings"></string>
+    <string name="htmlstring_main">
+<![CDATA[
+<div id="matrix_1192222" class="sortable-matrix" data-matrixId="1192222"><div class="n"><h1><span>Guten Tach du Zocker ;)</span></h1></div><div class="n"><p>Na aber hallo !</p>
+<p>Hast du den weg zu unserer App doch gefunden ^^.</p>
+<p>Hier findest du allen möglichen Kram über unseren Altis Life Server und unseren Updates und natürlich auch Server interne Sachen wie Regeln und Erklärungen.</p>
+<p> </p>
+<p>Das war eigendlich auch schon alles an gequatsche ;) hab spaß und lass es krachen .</p>
+<p> </p>
+<p>Liebe Grüße euer Altis Force Team!</p></div><div class="n">
+]]></string>
+	
+	<string name="htmlstring_info">	
+<![CDATA[
+<div id="subContent"> <div id="matrix_1192221" class="sortable-matrix" data-matrixId="1192221"><div class="n"><h2><span>Teamspeak</span></h2></div><div class="n"><p>85.114.141.99:6666</p></div><div class="n"><div class="n"><div class="hr"></div>
+</div><div class="n"><h2><span>Restartzeiten</span></h2></div><div class="n"><p>0:10 - 4:10 - 8:10 - 12:10 - 16:10 - 20:10 </p></div><div class="n"><div class="hr"></div>
+</div><div class="n"><p>Weitere Infos folgen!</p></div><div class="n"><div class="hr"></div>
+</div></div> </div>
+]]></string>
+								
+	<string name="htmlstring_regeln">	
+<![CDATA[
+<p>Infos werden noch eingefügt!</p>
+<p></p>
+<p>
+]]></string>	
+										
+	<string name="htmlstring_bussgeld">	
+<![CDATA[
+<div id="matrix_1193799" class="sortable-matrix" data-matrixId="1193799"><div class="n"><pre>
+<strong>Tempolimits</strong><br/>
+-           Innerorts Haupstraßen:               50Km/h<br/>
+-           Außerorts Hauptstrassen:         120Km/h<br/>
+-           Marktplätze :                                 30Km/h      
+</pre></div></div>
+]]></string>	
+
+	
+	<string name="Überschrift1">Störung der Öffentlichen Ordnung</string>
+	
+    <string name="CheckBox01">Versuchter Fahrzeugdiebstahl: 5k</string>
+    <string name="CheckBox02">Fahrzeugdiebstahl: 10k</string>
+    <string name="CheckBox03">Raubüberfall: 20k</string>
+    <string name="CheckBox04">Mord: 100k</string>
+    <string name="CheckBox05">Banküberfall: 100k +Inhaftierung</string>
+    <string name="CheckBox06">Chekpoint missachten: 20k</string>
+    <string name="CheckBox07">Rucksack Diebstahl: 10k</string>
+    <string name="CheckBox08">Drogenschmuggel: 70k F.Impounden</string>
+    <string name="CheckBox09">Drogenschmuggel(durch info): 20k</string>
+    <string name="CheckBox10">Tiere schmuggeln: 100k F.Impounden</string>
+    <string name="CheckBox11">Tot durch überfahren: 22K</string>
+    <string name="CheckBox12">Lämbelästigung: 2.5k stabelbar(nach 3mal Knast)</string>
+    <string name="CheckBox13">Exibitionismus: 5k +Psychologisches Gutachten ;-)</string>
+    
+    <string name="Überschrift2">Umgang mit Polizei</string>
+    
+    <string name="CheckBox14">Behinderung der Polizei: 5k stapelbar</string>
+    <string name="CheckBox15">Beamtenbeleidung: 5k stapelbar</string>
+    <string name="CheckBox16">Befreien aus Knast: 10k</string>
+    <string name="CheckBox17">Schauen in Ausrüstung und Fahrzeuge von Beamten: 10k</string>
+    <string name="CheckBox18">Beamtenbeschuss: 50k</string>
+    <string name="CheckBox19">Verletzen eines Beamten: 15k</string>
+    <string name="CheckBox20">Töten eines Beamten: 300k +Inhaftierung</string>
+    
+    <string name="Überschrift3">Umgang mit Waffen</string>    
+    
+    <string name="CheckBox21">Waffe gezogen Innerorts: 8k</string>
+    <string name="CheckBox22">Waffe abfeuern Innerorts: 10k</string>
+    <string name="CheckBox23">Personenschaden durch Waffe: 20k</string>
+    <string name="CheckBox24">Besitz Illegaler Waffe: 50K W.beschlagn.</string>
+    
+    <string name="Überschrift4">Flugverkehr</string>    
+    
+    <string name="CheckBox25">Schweben Innerorts: 7K</string>
+    <string name="CheckBox26">Landen Innerorts o. Erlaubnis: 20k</string>
+    <string name="CheckBox27">Landen auf Strasse: 25k</string>
+    <string name="CheckBox28">Landen in Sperrgebiet: 50k</string>
+    <string name="CheckBox29">Fliegen ohne Kollisionslicht: 10k</string>
+    <string name="CheckBox30">Fliegen ohne Lizens: 20k</string>
+    
+    <string name="Überschrift5">Straßenverkehr</string>      
+    
+    <string name="CheckBox31">Geschwi.überschreitung 20km/h: 2,5k</string>
+    <string name="CheckBox32">Geschwi.überschreitung 40km/h: 3k</string>
+    <string name="CheckBox33">Geschwi.überschreitung 60km/h: 5k</string>
+    <string name="CheckBox34">Geschwi.überschreitung 80km/h: 10k</string>
+    <string name="CheckBox35">Lärmbelästigung (Hupen): 2k stapelbar</string>
+    <string name="CheckBox36">Fahren ohne Führerschein: 5,5k</string>
+    <string name="CheckBox37">Fahren ohne Licht(Nachts): 1,5k</string>
+    <string name="CheckBox38">Fahren auf der falschen Seite: 2k</string>
+    <string name="CheckBox39">Fahrerfluch(Unfall): 15k</string>
+    <string name="CheckBox40">Behinderung des Verkehrs 2,5k</string>
+    <string name="CheckBox41">Mutwilliges Überfahren: 100k</string>
+    <string name="CheckBox42">Behinderung des Fahrzeugspawn: 2,5k +Abschleppkosten</string>
+    <string name="CheckBox43">Abstellen auf Fahrzeugspawn: 1k</string>
+    <string name="CheckBox44">Personenschaden: 5k stapelbar</string>
+    <string name="CheckBox45">45</string>
+    <string name="CheckBox46">46</string>
+    <string name="CheckBox47">47</string>
+    <string name="CheckBox48">48</string>
+    <string name="CheckBox49">49</string>
+    <string name="CheckBox50">50</string>
+
+
+</resources>
